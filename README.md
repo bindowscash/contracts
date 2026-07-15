@@ -1,4 +1,4 @@
-# Official BindowsCash contracts
+# BindowsCash contracts
 
 BindowsCash mixers were built using simple and secured solidity functions.
 Encryption is generated off-chain in a collision-resistant manner, using a combination of SHA256 and Keccak256. We do not use ZKSNARK/STARK nor MerkleTree configuration, but the multiple-layers encryption combined to a strong anonymity set (high amount of deposits) still makes it a good privacy tool for end-users.
