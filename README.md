@@ -13,31 +13,31 @@ Security features of the contracts:
 - There is no expiration on deposits. Your deposit can lay in the contract as long as you want.
 - All the contracts are public and verified on the blockchains, ensuring transparency and security.
 
-The protocol takes a 1% mixing fee, funding the staking pool.
+The protocol takes a 1% mixing fee, funding the srelayer costs and development, and for the Bindows mixing pools, half of the fee funds the staking pool.
 
 The full source code of BindowsCash contracts is available in the contracts files. You will also find the official deployments addresses on BSC.
 
 ## BSC Mainnet
 ### BNB
 
-    0.01 BNB testpool: 0xE75eB24177CeabAfA957ECd117066ed71C500b44
-    0.1 BNB pool: 0x53830CC903C4bCeF34d94CEFCbbc18341d90EcC6
-    1 BNB pool: 0xb9757850Ab6F8c39B55752790ABF77Ed5faD463d
-    10 BNB pool: 0x26494d081c33019965effBfeF3BD5B963e635B09
-    100 BNB pool: 0x39E84646FC3653b255568e11B44F8e80eda5043D
+    0.0001 BNB testpool: 0xC4f38025C4565a817A224b39a8Fa04bC4317Df9d
+    0.001 BNB pool: 0x93f4a60ea99F20376bF6F9Cf0c17cb1c6d3634ff
+    0.01 BNB pool: 0x1094F7E01F15Cf05BB1E02992dd5080fe9cF9374
+    0.1 BNB pool: 0x19686B2cafa1960d4d1Bd4e2945F336F1b9856E8
+    1 BNB pool: 0x072Ea8fD3051ed890f0FA3Dcd7d878cDF1b429BA
 
 ### USDT
 
-    1 USDT testpool: 0x5fCeC66b63Cc8e9d38E8183fad396656bb687B00
-    10 USDT pool: 0x7e95a6b17d9F84E59a703C7e4ECD3ab1b466e61F
-    100 USDT pool: 0x567703b577C4f7aa4cC9680d968Ca22c1706f2b0
-    1000 USDT pool: 0x55B1B469a993bd5D7F50B14b78F83bd275E788C3
-    10000 USDT pool: 0xFED0B9bbAad31fbc3f0112225749494d97abE464
+    0.1 USDT testpool: 0x13970bEE917beC71eEC3751C1A9b0C558DDc022f
+    1 USDT pool: 0x37352CE527b9382755B05E4B7441A334Ee2cBa80
+    10 USDT pool: 0x5fb9C7c12B577de17Ad0A82f219A38a5Bdc873Ae
+    100 USDT pool: 0x38Ab990Bae4EBf8a23c64ee7b9c051a67d5eC235
+    1000 USDT pool: 0xD3E3f8480b666F686A11C86EDC1BAD87E3509365
 
 
 ### BINDOWS
 
-    1000 BINDOWS pool: 0xcAd9C0e3478B6126ACDde94950304f0Ec137dd3A
-    10000 BINDOWS pool: 0xCe834ee7bB6A7cb5BE89743997544372dC909CD7
-    100000 BINDOWS pool: 0x05c368D43A11B0D06E6edD4D4D89Ca17D52A84aF
-    1000000 BINDOWS pool: 0xBbBbbf2B7a6C3e6600727417b2483A9E3b3098f7
+    1000 BINDOWS pool: TBA
+    10000 BINDOWS pool: TBA
+    100000 BINDOWS pool: TBA
+    1000000 BINDOWS pool: TBA
